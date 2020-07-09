@@ -1,5 +1,3 @@
-_Deployed to production on: 1/14/2020_
-----
 # EmployeeAlerts
 A series of scripts used to monitor employee Active Directory accounts and send alerts about important events or information.
 
